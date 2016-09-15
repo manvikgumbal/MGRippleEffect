@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  MGRippleEffect
 //
-//  Created by 123 on 14/09/16.
-//  Copyright © 2016 Manvik. All rights reserved.
+//  Created by Manvik on 14/09/16.
+//  Copyright © 2016 Mindspower. All rights reserved.
 //
 
 import UIKit
